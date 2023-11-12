@@ -1,2 +1,2 @@
 # app-dev
-My First Repository
+# Favorite Series is Dr. Stone (Anime)
